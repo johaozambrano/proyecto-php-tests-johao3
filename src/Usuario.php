@@ -6,7 +6,7 @@ class Usuario
 {
     public function crearNombreCompleto(string $nombre, string $apellido): string
     {
-        return trim($nombre);
+        return trim($nombre . ' ' . $apellido);
     }
 
     public function esEmailValido(string $email): bool

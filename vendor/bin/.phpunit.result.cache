@@ -1,1 +1,1 @@
-{"version":2,"defects":{"Tests\\UsuarioTest::testCrearNombreCompleto":7},"times":{"Tests\\UsuarioTest::testCrearNombreCompleto":0.006,"Tests\\UsuarioTest::testEmailValido":0.001,"Tests\\UsuarioTest::testEmailInvalido":0}}
+{"version":2,"defects":{"Tests\\UsuarioTest::testCrearNombreCompleto":7},"times":{"Tests\\UsuarioTest::testCrearNombreCompleto":0.001,"Tests\\UsuarioTest::testEmailValido":0,"Tests\\UsuarioTest::testEmailInvalido":0}}
